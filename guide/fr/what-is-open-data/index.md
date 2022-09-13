@@ -35,4 +35,4 @@ Les lecteurs ont déjà vu des exemples de jeux de données qui sont ou peuvent 
 
 Le point clé est que, lorsqu'on "libère" des données, il faut se focaliser sur les données non-personnelles, c'est-à-dire les données qui ne contiennent pas d'information sur certains individus en particulier.
 
-De même, for certains types de données gouvernementales, des restrictions de sécurité nationale peuvent s'appliquer.
+De même, pour certains types de données gouvernementales, des restrictions de sécurité nationale peuvent s'appliquer.
